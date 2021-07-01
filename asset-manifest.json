@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/frontend-reactjs/static/css/main.24e554e3.chunk.css",
+    "main.js": "/frontend-reactjs/static/js/main.8d5dda31.chunk.js",
+    "main.js.map": "/frontend-reactjs/static/js/main.8d5dda31.chunk.js.map",
+    "runtime-main.js": "/frontend-reactjs/static/js/runtime-main.bacdb5ca.js",
+    "runtime-main.js.map": "/frontend-reactjs/static/js/runtime-main.bacdb5ca.js.map",
+    "static/js/2.7590b15e.chunk.js": "/frontend-reactjs/static/js/2.7590b15e.chunk.js",
+    "static/js/2.7590b15e.chunk.js.map": "/frontend-reactjs/static/js/2.7590b15e.chunk.js.map",
+    "index.html": "/frontend-reactjs/index.html",
+    "static/css/main.24e554e3.chunk.css.map": "/frontend-reactjs/static/css/main.24e554e3.chunk.css.map",
+    "static/js/2.7590b15e.chunk.js.LICENSE.txt": "/frontend-reactjs/static/js/2.7590b15e.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/frontend-reactjs/static/media/Banner.46ec6212.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bacdb5ca.js",
+    "static/js/2.7590b15e.chunk.js",
+    "static/css/main.24e554e3.chunk.css",
+    "static/js/main.8d5dda31.chunk.js"
+  ]
+}
